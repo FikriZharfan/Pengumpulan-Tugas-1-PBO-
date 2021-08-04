@@ -1,2 +1,2 @@
 # Pengumpulan-Tugas-1-PBO-
-Implementasi OOP di PH
+Implementasi OOP di PHP
